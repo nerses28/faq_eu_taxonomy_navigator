@@ -1,0 +1,3 @@
+{
+	"prompt": "You are given three FAQ pairs (questions and answers) and one additional question. Your task is to determine which of the provided answers best matches the additional question. Return only the number of the example that corresponds to the best-fitting answer (1, 2, or 3) and nothing else."
+}

@@ -1,0 +1,1318 @@
+[
+  {
+    "question": "Will the technical screening criteria set out in the Climate Delegated Act be made stricter and updated over time?",
+    "answer": "0"
+  },
+  {
+    "question": "How will the Taxonomy be further developed – will there be more activities contributing to climate change mitigation (CCM) included in the Climate Delegated Act?",
+    "answer": "1"
+  },
+  {
+    "question": "What does checking the compliance with the TSC on the substantial contribution and the DNSH mean in practice?",
+    "answer": "2"
+  },
+  {
+    "question": "How should verification requirements in the technical screening criteria be understood? What documentary evidence could support the demonstration and verification of compliance with those criteria?",
+    "answer": "3"
+  },
+  {
+    "question": "Can technical consultancy services be counted as Taxonomy-eligible, and potentially Taxonomy-aligned, if they are related to an activity defined in the Taxonomy Delegated Acts?",
+    "answer": "4"
+  },
+  {
+    "question": "How should GHG emissions for technical screening criteria be calculated (scope, methodologies etc.)?",
+    "answer": "5"
+  },
+  {
+    "question": "How can an undertaking's activities that are carried out in jurisdictions outside the EU be assessed for compliance with the technical screening criteria by reference to local third-country requirements or guidelines? When criteria refer to EU/national legislation or standards, should the level of requirements be adapted for criteria to be achieved outside the EU?",
+    "answer": "6"
+  },
+  {
+    "question": "How to interpret the use of “and” and “or” in the description of economic activities (for instance in ‘Construction or operation of electricity generation facilities that produce electricity from hydropower’ in Section 4.5; or ‘Construction and operation of electricity generation installations that produce electricity exclusively from biomass, biogas or bioliquids’ in Section 4.8)?",
+    "answer": "7"
+  },
+  {
+    "question": "How to deal with technical screening criteria that are not relevant to a specific activity mentioned in the description (e.g. a maintenance-only service with no construction-related waste)?",
+    "answer": "8"
+  },
+  {
+    "question": "In a number of cases of enabling activities, benchmarks compared to industry averages, peers or best available technologies are required. However, such information is not always available publicly. How should the requirement to provide these benchmarks be met?",
+    "answer": "9"
+  },
+  {
+    "question": "How does the sustainable finance framework apply to access to private funding for the defence industry?",
+    "answer": "10"
+  },
+  {
+    "question": "How about companies without any Taxonomy-aligned activities? Will they lose access to finance?",
+    "answer": "11"
+  },
+  {
+    "question": "The DNSH criteria for pollution prevention and control of the activity “Afforestation” in Section 1.1. specify that the activity should minimise the use of fertilisers and not use manure. Should the use of natural fertilisers also be minimised?",
+    "answer": "12"
+  },
+  {
+    "question": "How is the term “degradation of land with high carbon stocks” in the activity “Afforestation” in Section 1.1. defined?",
+    "answer": "13"
+  },
+  {
+    "question": "What does “in accordance with the terms and conditions laid down in national law” mean in the context of the activity “Rehabilitation and restoration of forests” in Section 1.2.? What if national law does not require such consideration?",
+    "answer": "14"
+  },
+  {
+    "question": "Where is the boundary between the activity “Rehabilitation and restoration of forests” in Section 1.2 and the activity “Forest management” in Section 1.3 in the case when forest management includes reforestation after a clear cut or a natural disturbance? Specifically, under which section does the reforestation after an outbreak of pests fall?",
+    "answer": "15"
+  },
+  {
+    "question": "What is the meaning of a “continuously updated” forest management plan? Does this mean renewed after the end of its validity, in the occurrence of significant events, or yearly? Or is it about having evidence of the work done in the forest?",
+    "answer": "16"
+  },
+  {
+    "question": "Are the criteria of points 2.1 (a) and (b) of the substantial contribution criteria of the activity “Forest management” in Section 1.3 fulfilled if management systems are in place at forest sourcing level to ensure carbon stock and sink levels are maintained or strengthened?",
+    "answer": "17"
+  },
+  {
+    "question": "What does the criterion in point 2.3 (c) of the substantial contribution criteria of the activity “Forest management” in Section 1.3 mean in practice?",
+    "answer": "18"
+  },
+  {
+    "question": "Criterion in point 2.4 of the substantial contribution criteria of the activity “Forest management” in Section 1.3. provide that forest holdings under 13ha are not required to perform a climate benefit analysis. What are the requirements for an owner of a 14 hectare forest holding?",
+    "answer": "19"
+  },
+  {
+    "question": "How will the compliance of the activity with the criteria set out in point 2.3 (a) of the activity “Forest management” in Section 1.3. be evaluated, especially the analysis considering a risk of leakage?",
+    "answer": "20"
+  },
+  {
+    "question": "What does “in accordance with national law” referred to in point 3.1. mean in the context of the guarantee of permanence? What if national law does not require such consideration?",
+    "answer": "21"
+  },
+  {
+    "question": "Is the criterion set out in point 3.1. of the substantial contribution criteria of the activity “Forest management” in Section 1.3. to be understood that there must be a contractual agreement that the forest area in question cannot be changed to other land use?",
+    "answer": "22"
+  },
+  {
+    "question": "What does “beyond the activity that is financed” mean in the context of the guarantee of permanence referred to in point 3.2. in Section 1.3.?",
+    "answer": "23"
+  },
+  {
+    "question": "Is a forest certification audit enough to verify compliance with the technical screening criteria?",
+    "answer": "24"
+  },
+  {
+    "question": "How can it be known in advance that “the group of those holdings remains the same for all subsequent audits” as referred to in point 5(b) in Section 1.3.? Why does it matter if the group changes between audits?",
+    "answer": "25"
+  },
+  {
+    "question": "What happens when the DNSH criteria are assessed at the level of the “group of holdings” and one of the members leaves during the expected lifespan of the activity? Such lifespan can be several decades for forestry activities, and there is no assurance that the group stays the same for such a long time.",
+    "answer": "26"
+  },
+  {
+    "question": "In relation to the technical screening criteria for DNSH to climate change adaptation, what is the “expected life span” referred to in Appendix A for forestry activities?",
+    "answer": "27"
+  },
+  {
+    "question": "In relation to the technical screening criteria for DNSH to climate change adaptation, can the climate projections prepared at State or regional level be used for the climate risk assessment?",
+    "answer": "28"
+  },
+  {
+    "question": "The biodiversity DNSH criteria of the activity “Forest management” in Section 1.3. require in point 6(a) to ensure the “good conservation status of habitat and species, maintenance of typical habitat species”. How should the term “good conservation status” in the DNSH criteria be interpreted?",
+    "answer": "29"
+  },
+  {
+    "question": "How can points (a) to (d) of the biodiversity DNSH criteria of the activity “Forest management” in Section 1.3. be ensured at a forest holding level?",
+    "answer": "30"
+  },
+  {
+    "question": "What does point (d) of the biodiversity DNSH criteria of the activity “Forest management” in Section 1.3. mean in practice when it refers to “improvement of physical, chemical and biological quality of the soil”?",
+    "answer": "31"
+  },
+  {
+    "question": "What does point (e) of the biodiversity DNSH criterion of the activity “Forest management” in Section 1.3. mean in practice when it refers to “promoting biodiversity-friendly practices that enhance forests’ natural processes”?",
+    "answer": "32"
+  },
+  {
+    "question": "What does point (f) of the biodiversity DNSH criterion of the activity “Forest management” in Section 1.3. mean in practice when it refers to “excluding the conversion of high-biodiverse ecosystems into less biodiverse ones”?",
+    "answer": "33"
+  },
+  {
+    "question": "What does point (g) of the biodiversity DNSH criterion of the activity “Forest management” in Section 1.3. mean in practice when it refers to “ensuring the diversity of associated habitats and species linked to the forest”?",
+    "answer": "34"
+  },
+  {
+    "question": "What does point (h) of the biodiversity DNSH criterion of the activity “Forest management” in Section 1.3. mean in practice when it refers to “ensuring the diversity of stand structures and maintenance or enhancing of mature stage stands and dead wood”?",
+    "answer": "35"
+  },
+  {
+    "question": "Do the manufacturing activities in Sections 3.1 to 3.6 include the manufacturing of components of its technologies?",
+    "answer": "36"
+  },
+  {
+    "question": "What information or document confirms the required emission limit values and demonstrate their compliance with DNSH criterion for pollution prevention and control (PPC) for the manufacturing activities in Sections 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15, 3.16 and 3.17, if there is no obligation under Union legislation to have a permit to operate?",
+    "answer": "37"
+  },
+  {
+    "question": "How should the Taxonomy-alignment of passenger cars be assessed for cars that are not subject to the EU carbon emission test cycle (WLTP)?",
+    "answer": "38"
+  },
+  {
+    "question": "Can curtain walling be used to qualify for taxonomy-alignment under Section 3.5?",
+    "answer": "39"
+  },
+  {
+    "question": "What does “highest two populated classes” for household appliances referred to in the TSC in Section 3.5. and, where applicable, the TSC in Section 7.3. mean in practice? What household appliances fall under these classes? Could the EPREL database be used to obtain the information?",
+    "answer": "40"
+  },
+  {
+    "question": "How should “substantial” be defined in the substantial contribution criteria of the activity “Manufacture of other low carbon technologies” in Section 3.6.in that refer to “substantial life-cycle GHG emission savings”? Which data should be used as evidence for the comparison?",
+    "answer": "41"
+  },
+  {
+    "question": "Does the product or service intended to qualify as Taxonomy-aligned under Section 3.6. have to constitute an economically viable solution?",
+    "answer": "42"
+  },
+  {
+    "question": "For instance, can the manufacturing of equipment for traffic management and tolling be considered as Taxonomy-eligible under the activity “Manufacture of other low carbon technologies” in Section 3.6.?",
+    "answer": "43"
+  },
+  {
+    "question": "How to apply the concept of “essential use for society” for DNSH on pollution prevention and control for activity “Manufacture of other low carbon technologies” in Section 3.6.?",
+    "answer": "44"
+  },
+  {
+    "question": "Are the technical screening criteria of the activity “Manufacture of aluminium” regarding indirect greenhouse gas (GHG) emissions fulfilled only if 100% of renewable energy is used in the manufacture of aluminium or does the electricity user need to document the carbon intensity of indirect GHG emissions (for example by purchasing Guarantees of Origin)?",
+    "answer": "45"
+  },
+  {
+    "question": "How should the provisions in the technical screening criteria of the activity “Manufacture of iron and steel” in Section 3.9 referring to the attribution of emissions for the production and use of waste gases be interpreted?",
+    "answer": "46"
+  },
+  {
+    "question": "How are the GHG emission thresholds specified in the technical screening criteria of the activity “Manufacture of iron and steel” in Section 3.9. applied? For example, does the manufacture of hot metal (1,331 tCO2e/t product) include the provision of coke (0,144 tCO2e/t product) or is the GHG emission threshold to be applied exclusively for the hot metal manufacturing process step?",
+    "answer": "47"
+  },
+  {
+    "question": "What is the definition of “hot metal” as included in the substantial contribution criteria of the activity “Manufacture of iron and steel” in Section 3.9.?",
+    "answer": "48"
+  },
+  {
+    "question": "How is the emission threshold for hydrogen used in different processes for the manufacture of hydrogen under Section 3.10?",
+    "answer": "49"
+  },
+  {
+    "question": "Does the reference to RED II in the technical screening criteria of the activity “Manufacture of hydrogen” in Section 3.10. imply that the RED II additionality requirement applies?",
+    "answer": "50"
+  },
+  {
+    "question": "How are the life cycle emissions assessed and calculated for the activity “Manufacture of hydrogen” in Section 3.10.? For example, is the manufacture of the equipment taken into account when assessing life cycle emissions?",
+    "answer": "51"
+  },
+  {
+    "question": "For the activity “Electricity generation from hydropower” in Section 4.5., what does the power density threshold of the electricity generation facility above 5 W/m2 mean in practice?",
+    "answer": "52"
+  },
+  {
+    "question": "What does “where relevant” in the criteria for DNSH to sustainable use and protection of water and marine resources of the activity “Electricity generation from hydropower” in Section 4.5. mean in practice and who assesses what measures are relevant?",
+    "answer": "53"
+  },
+  {
+    "question": "What is meant by the ‘compensatory measures’ in point 3.5 of the DNSH criteria for sustainable use and protection of water and marine resources of the activity “Electricity generation from hydropower” in Section 4.5.? What examples of these measures could be provided?",
+    "answer": "54"
+  },
+  {
+    "question": "Is there an absolute requirement that hydropower production should allow for reaching the objectives of good status or good potential of water bodies, for both new and existing hydropower production, in order to fulfil the DNSH-criteria for sustainable use and protection of water and marine resources?",
+    "answer": "55"
+  },
+  {
+    "question": "The Delegated Act requires that hydropower operates in accordance with an authorisation or permit aimed at achieving good status or potential of the affected water body. Does that mean that: i. there is an absolute requirement that all hydropower production require a permit/licence/authorisation; and ii. all licenses/permits/authorisations should refer to the environmental objectives for the affected water bodies? Does this also mean that the DNSH-criteria require creating conditions aimed at achieving good status or potential of the affected water body?",
+    "answer": "56"
+  },
+  {
+    "question": "Can hydropower production implying the application of Article 4(5) of the Water Framework Directive (WFD) (less stringent objectives) be considered to fulfil the DNSH criteria?",
+    "answer": "57"
+  },
+  {
+    "question": "How should the best available techniques (BAT-AEL) ranges referenced in the technical screening criteria of the activity “Electricity generation from renewable non-fossil gaseous and liquid fuels” in Section 4.7. be applied in non-EU jurisdictions?",
+    "answer": "58"
+  },
+  {
+    "question": "The emissions from a plant can vary based on the fuel it uses. Do the criteria for the activity “Transmission and distribution of electricity” in Section 4.9. imply a requirement to prove that emissions stay under 100g CO2/kWh, independent of the fuel used?",
+    "answer": "59"
+  },
+  {
+    "question": "Is hydrogen included as part of the activity “Storage of electricity” in Section 4.10?",
+    "answer": "60"
+  },
+  {
+    "question": "How are low-carbon gases defined in the context of the activity “Manufacture of biogas and biofuels for use in transport and of bioliquids” in Section 4.13.? Is biogas covered by any of the criteria?",
+    "answer": "61"
+  },
+  {
+    "question": "The description of the activity “Transmission and distribution networks for renewable and low-carbon gases” in Section 4.14. includes renewable and low-carbon gases, while the criteria for substantial contribution to climate change mitigation do not refer to renewable gases. How should this be understood?",
+    "answer": "62"
+  },
+  {
+    "question": "Would the construction of hydrogen pipelines referenced in the activity “Transmission and distribution networks for renewable and low-carbon gases” in Section 4.14. only qualify where that hydrogen is manufactured with the hydrogen threshold under the Activity in Section 3.10. “Manufacture of hydrogen”?",
+    "answer": "63"
+  },
+  {
+    "question": "Can the use of dry sludge from a non-industrial urban water treatment plant (without prior digestion and without mixing) be considered as biomass? If considered as biomass, would an incineration facility with energy recovery in the form of electricity and heat, dedicated exclusively to the burning of this sludge be Taxonomy-eligible?",
+    "answer": "64"
+  },
+  {
+    "question": "Is the manufacture of equipment for commercial and residential pools (e.g. skimmers, inlets, filters, pH regulators, chlorine regulators, valves) Taxonomy-eligible under the activities “Construction, extension and operation of water collection, treatment and supply systems” in Section 5.1. or “Construction, extension and operation of waste water collection and treatment” in Section 5.3.?",
+    "answer": "65"
+  },
+  {
+    "question": "Can the anaerobic digestion of sewage sludge also be included in the net energy consumption referenced in the technical screening criteria for the activity “Construction, extension and operation of waste water collection and treatment” in Section 5.3. if it is within the treatment plant?",
+    "answer": "66"
+  },
+  {
+    "question": "Does the activity “Material recovery from non-hazardous waste” in Section 5.9. also cover sorting facilities where final recycling or recovery is carried out in a different facility or country?",
+    "answer": "67"
+  },
+  {
+    "question": "For the activity “Transport of CO2” in Section 5.11, can the installation of assets that increase the flexibility and improve the management of an existing network be considered in their own right or does such an installation have to be an integral part of the transport of captured CO2?",
+    "answer": "68"
+  },
+  {
+    "question": "What does “the highest populated classes” based on an official dataset mean regarding tyres?",
+    "answer": "69"
+  },
+  {
+    "question": "Are “the highest populated classes” of tyres determined by dimension or categories?",
+    "answer": "70"
+  },
+  {
+    "question": "Is comparison of tyre Fuel Efficiency, Wet Grip and Rolling Noise classes done across all tyres or separately within tyre categories, e.g. winter, all-season, and summer tyres?",
+    "answer": "71"
+  },
+  {
+    "question": "Do the tyre screening criteria for M and N vehicles apply to the whole European market or are there country-specific criteria?",
+    "answer": "72"
+  },
+  {
+    "question": "Is the substantial contribution criterion for climate change mitigation in Sections 6.2, 6.6, 6.8, 6.9, 6.10, 6.12, 6.14, 6.15, 6.16. and 6.17 of Annex I to be understood that the wagons or vessels and the fuel distribution infrastructure cannot be intended to be exclusively used for the transport or storage of fossil fuels?",
+    "answer": "73"
+  },
+  {
+    "question": "Is ammonia considered as a zero direct (tailpipe) CO2 emission fuel?",
+    "answer": "74"
+  },
+  {
+    "question": "Do particularly low CO2 diesel locomotives classify as transitional technology in the description of the activities “Passenger interurban rail transport” in Section 6.1. and “Freight transport” in Section 6.2.?",
+    "answer": "75"
+  },
+  {
+    "question": "What type of train would be able to be classified as a transitional technology in the activity “Passenger interurban rail transport” in Section 6.1.?",
+    "answer": "76"
+  },
+  {
+    "question": "For the activity “Freight rail transport” in Section 6.2., is there a threshold for what proportion of the operating time a train can be operated with a conventional engine, e.g. 80% of the operating time on rails with required infrastructure and a maximum of 20% of the operating time with conventional engine?",
+    "answer": "77"
+  },
+  {
+    "question": "What else, apart from current-carrying infrastructure, is meant by \"track with necessary infrastructure\" as referenced in the substantial contribution criteria of activities “Passenger interurban rail transport” in Section 6.1. and “Freight rail transport” in Section 6.2.?",
+    "answer": "78"
+  },
+  {
+    "question": "Regarding the DNSH criteria to circular economy in the activity “Freight rail transport” in Section 6.2., when exactly is compliance with the waste hierarchy reached? Are there any percentage requirements?",
+    "answer": "79"
+  },
+  {
+    "question": "Regarding the DNSH criteria to pollution prevention and control of the activity “Freight rail transport” in Section 6.2., for engines for the propulsion of railway locomotives (RLL) and engines for the propulsion of railcars (RLR) complying with emission limits set out in Annex II to Regulation (EU) 2016/1628 , can it be generally considered that engines with zero CO2 emissions comply with the emission limits?",
+    "answer": "80"
+  },
+  {
+    "question": "What are some concrete use cases of the activity “Operation of personal mobility devices, cycle logistics” in Section 6.4.? For example, are mail carts pulled by postmen included in the scope (where the propulsion comes from the physical activity of the user)?",
+    "answer": "81"
+  },
+  {
+    "question": "Why is there a different application date for vehicles of category N1 in the activity “Transport by motorbikes, passenger cars and commercial vehicles” in Section 6.5. than in the activity “Freight transport services by road” in Section 6.6.?",
+    "answer": "82"
+  },
+  {
+    "question": "Vehicle category N1 (classified as vehicle for good transport) is covered in the activity “Transport by motorbikes, passenger cars and light commercial vehicles” in Section 6.5., as well as in the activity “Freight transport services by road” in Section 6.6. Why is N1 covered in both activities? What are the differences?",
+    "answer": "83"
+  },
+  {
+    "question": "For the activities “Transport by motorbikes, passenger cars and commercial vehicles” in Section 6.5. and “Freight transport services by road” in Section 6.6., should M1 and N1 vehicles have a reference mass not exceeding 2610 kg in order to be Taxonomy-aligned?",
+    "answer": "84"
+  },
+  {
+    "question": "For the activity “Inland freight water transport” in Section 6.8., are there any categories/classes for individual rivers for individual operation categories?",
+    "answer": "85"
+  },
+  {
+    "question": "How is the “overall trading pattern of the vessel” in footnote 245 referred to in Section 6.8. of Annex I defined?",
+    "answer": "86"
+  },
+  {
+    "question": "What is the definition used for the Energy Efficiency Operational Indicator in the activity “inland freight waterway transport” in Section 6.8.?",
+    "answer": "87"
+  },
+  {
+    "question": "Who will calculate the Energy Efficiency Operational Indicator?",
+    "answer": "88"
+  },
+  {
+    "question": "Is the “best in class” exception for transitional activities referred to in the activity “Inland freight water transport” in Section 6.8. limited to 2025 for water transport vessels?",
+    "answer": "89"
+  },
+  {
+    "question": "What does “able to run on fuels from renewable sources” mean?",
+    "answer": "90"
+  },
+  {
+    "question": "What is the scope of “chartering” with or without a crew as referred to in the activity “Sea and coastal freight water transport, vessels for port operations and auxiliary activities” in Section 6.10.?",
+    "answer": "91"
+  },
+  {
+    "question": "How is alignment with the technical screening criteria of the activity “Sea and coastal freight water transport, vessels for port operations and auxiliary activities” in Section 6.10. demonstrated by undertakings chartering or operating vessels?",
+    "answer": "92"
+  },
+  {
+    "question": "What is the “best in class” criterion referred to in the activity “Sea and coastal freight water transport, vessels for port operations and auxiliary activities” in Section 6.10. covering?",
+    "answer": "93"
+  },
+  {
+    "question": "For the activity “Sea and coastal freight water transport, vessels for port operations and auxiliary activities” in Section 6.10., does a vessel have to run on zero direct emission fuels or on fuels from renewable sources in order to be Taxonomy-aligned, or is it sufficient that the vessel is certified for fuels from renewable sources such as biofuels?",
+    "answer": "94"
+  },
+  {
+    "question": "Are vessels operated with biofuels included in the zero tailpipe CO2 emission criterion of the activity “Sea and coastal freight water transport, vessels for port operations and auxiliary activities” (Section 6.10.)?",
+    "answer": "95"
+  },
+  {
+    "question": "How can the Energy Efficiency Design Index (EEDI) be applied in the activity “Sea and coastal freight water transport, vessels for port operations and auxiliary activities” in Section 6.10. under points (c) and (d) if the ship is outside the scope of EEDI?",
+    "answer": "96"
+  },
+  {
+    "question": "Why does the point 1(c) of the substantial contribution criteria of the activity “Sea and coastal freight water transport, vessels for port operations and auxiliary activities” in Section 6.10. refer to a reference value applicable to heavy duty vehicles? How is it relevant for shipping? What is the actual value of this reference?",
+    "answer": "97"
+  },
+  {
+    "question": "For the activity “Sea and coastal passenger water transport” in Section 6.11., which criteria apply to vessels that carry both passenger and freight?",
+    "answer": "98"
+  },
+  {
+    "question": "Is airport infrastructure dedicated to the provision of rail-air multimodal services for the airport’s passengers and cargo covered in activity “Infrastructure for rail transport” in Section 6.14.?",
+    "answer": "99"
+  },
+  {
+    "question": "Does the activity “Infrastructure enabling low-carbon road transport and public transport” in Section 6.15. include infrastructure dedicated to the urban transport carried out by air, such as infrastructure dedicated to operate an electric vertical take-off and landing (eVTOL) vehicle with zero tailpipe CO2 emissions, for the purpose of urban transport of passengers and goods? Does it include intelligent transport systems (ITS) enabling for example traffic flow optimisation and facilitation of energy efficiency in road transport?",
+    "answer": "100"
+  },
+  {
+    "question": "Regarding the preparation of construction site waste for recycling (DNSH to circular economy), can it be assumed that compliance with national law and any applicable threshold values is sufficient for a construction activity to be Taxonomy-aligned?",
+    "answer": "101"
+  },
+  {
+    "question": "How can non-EU real estate assets be classified as Taxonomy-aligned? How are building standards (LEED, BREEAM, DGNB) treated in the EU Taxonomy? Is there any way to demonstrate that a LEED or BREEAM building is Taxonomy-aligned?",
+    "answer": "102"
+  },
+  {
+    "question": "As of today many Energy Performance Certificates (EPC) in some Member States are based on energy consumption rather than energy demand. Can these consumption-based energy certificates be used as an equal basis to prove Taxonomy-alignment?",
+    "answer": "103"
+  },
+  {
+    "question": "What are the actual Nearly Zero-Energy Buildings (NZEB) thresholds in each Member State (region)?",
+    "answer": "104"
+  },
+  {
+    "question": "For the activity “Construction of new buildings” in Section 7.1., is the date of submission of the building application decisive for the technical screening criteria to be applied?",
+    "answer": "105"
+  },
+  {
+    "question": "Is the scope of the activity “Construction of new buildings” in Section 7.1. only limited to companies constructing the new buildings or also companies, which commission the construction of buildings (e.g. car manufacturing company which contract a construction company to build an office building)?",
+    "answer": "106"
+  },
+  {
+    "question": "For the activity “Construction of new buildings” in Section 7.1., do the requirements regarding air-tightness, thermal integrity measurement and life-cycle Global Warming Potential (GWP) apply to non-residential buildings?",
+    "answer": "107"
+  },
+  {
+    "question": "For residential buildings, can compliance with the technical screening criteria of the activity “Construction of new buildings” in Section 7.1. be demonstrated by using a limited sub-set of apartment units, instead of checking compliance for the whole property? Does this possibility also apply in non-residential buildings?",
+    "answer": "108"
+  },
+  {
+    "question": "Regarding the proof of thermal integrity measurement, what should be done with buildings that are completed or handed over outside the required heating period? Can proof of thermal integrity measurement only be provided after the building has been handed over and, until then, be recorded as a declaration of intent by those responsible in accordance with EU law?",
+    "answer": "109"
+  },
+  {
+    "question": "Regarding the determination of the life-cycle Global Warming Potential (GWP) as referenced in the activity “Construction of new buildings” in Section 7.1.: i. What is the process to be followed if individual phases of the life cycle (such as: Phase C - disposal of the building; but in particular Phase D - benefits and pressures outside the system boundary) are currently not available in the form of corresponding (product-specific) environmental indicators according to EN 15978 / EN 15804 (in particular GWP) in the form of robust product databases at national level? In this case, can \"partial conformity or conformity based on national framework conditions\" be assumed by naming the parts of the life cycle considered (for example: phase A, phase B; parts of phase C)? ii. What is the process if, apart from possible restrictions of the overall assessment approach, the availability of reliable environmental indicators for the technical building equipment cannot be included in the balancing, or only to a very limited extent? In this case, can \"partial conformity or conformity on the basis of national framework conditions\" be assumed by mentioning this restriction? iii. Are nationally established assessment procedures permitted for proof of conformity if they currently have the limitations, but at the same time are largely established in practice (for example, in building assessment systems, in the allocation of housing subsidies)?",
+    "answer": "110"
+  },
+  {
+    "question": "Is dedicated building land for the new construction of buildings no longer considered arable and cultivated land, regardless of the soil fertility of the land that is still undeveloped? Or is it generally prohibited in the sense of the ordinance to construct a new building on arable and cultivated land with medium to high soil fertility and subsurface biodiversity, regardless of its dedication under building law?",
+    "answer": "111"
+  },
+  {
+    "question": "For the activity “Construction of new buildings” in Section 7.1., is building land awaiting development, dedicated but still undeveloped building land generally excluded from development according to the EU Taxonomy?",
+    "answer": "112"
+  },
+  {
+    "question": "Point 1 of the substantial contribution criteria of the activity “Construction of new buildings” in Section 7.1. provides that “the Primary Energy Demand (…) is at least 10 % lower than the threshold set for the nearly zero-energy building (…) in national measures implementing Directive 2010/31/EU (…)”. Where national legislation related to Energy Performance of Buildings Directive and the NZEB concept has recently changed, should compliance with this criterion be performed using the legislation applicable at the time of the building licensing (the old one) or the legislation currently in force?",
+    "answer": "113"
+  },
+  {
+    "question": "The substantial contribution criteria of the activity “Construction of new buildings” in Section 7.1. indicate that the energy performance is certified using an ‘as built Energy Performance Certificate (EPC)’. What is meant by ‘as built’? Can during the construction phase a calculated estimated primary energy demand (PED) be used to determine Taxonomy-alignment until the final energy performance assessment has been performed? If during the construction phase the calculated estimated PED value is only available on building level and not on individual building unit level (which is often the case for apartments), can the PED value for the total building be used as a proxy for the PED of the individual apartment during the construction phase?",
+    "answer": "114"
+  },
+  {
+    "question": "Paragraph 2 of the substantial contribution criteria of the activity “Construction of new buildings” in Section 7.1. states that ‘as an alternative, where robust and traceable quality control processes are in place during the construction process this is acceptable as an alternative to thermal integrity testing’. What quality process qualifies as a traceable quality control process and, therefore, guarantees compliance with this criterion?",
+    "answer": "115"
+  },
+  {
+    "question": "In Annex II to the Delegated Act, the DNSH criteria to climate change mitigation of the activity “Construction of new buildings” in Section 7.1. of Annex II provide that \"The building is not dedicated to extraction, storage, transport or manufacture of fossil fuels.\" Is this to be interpreted as excluding the operation of fossil fuel systems?",
+    "answer": "116"
+  },
+  {
+    "question": "The DNSH criteria to pollution prevention and control of the activity “Construction of new buildings” in Section 7.1. provide that: ‘Building components and materials used in the building renovation that may come into contact with occupiers emit less than 0,06 mg of formaldehyde per m³ of material or component upon testing in accordance with the conditions specified in Annex XVII to Regulation (EC) No 1907/2006 and less than 0,001 mg of other categories 1A and 1B carcinogenic volatile organic compounds per m³ of material or component, upon testing in accordance with CEN/EN 16516 or ISO 16000-3:2011 or other equivalent standardised test conditions and determination methods.’ - Annex XVII to REACH does not specify conditions to determine formaldehyde emissions. What testing methodology needs to be performed: specific standard or a test method such as EN 16516? Why does the criteria refer to “0,06 mg of formaldehyde per m³ of material or component” when formaldehyde emission are expressed as air concentration?",
+    "answer": "117"
+  },
+  {
+    "question": "The DNSH to pollution prevention and control of the activity “Construction of new buildings” in Section 7.1. require compliance with the criteria set out in Appendix C. Is compliance with Appendix C already ensured by complying with Union legislation referred in the DNSH criteria for Section 7.1. or should other matters be taken in consideration?",
+    "answer": "118"
+  },
+  {
+    "question": "Construction of buildings implies the use of thousands of substances/products stemming from a very wide range of suppliers, which themselves integrate components from third parties. The bulk of information to be gathered can be very difficult to collect. Is there a methodology or path of compliance that can be indicated to ensure compliance with Appendix C?",
+    "answer": "119"
+  },
+  {
+    "question": "The DNSH criterion for pollution prevention and control of the activity “Construction of new buildings” in Section 7.1. requires that “Where the new construction is located on a potentially contaminated site (brownfield site), the site has been subject to an investigation for potential contaminants, for example using standard ISO 18400”. If contamination is detected, should decontamination be implemented to comply with this criterion? Which thresholds should be considered to define if a site is contaminated? Is there any international reference or are national/local references to be used?",
+    "answer": "120"
+  },
+  {
+    "question": "The DNSH criteria for water and marine resources of the activity “Construction of new buildings” in Section 7.1. explicitly exclude \"installations in residential building units\" from the scope of the requirements. How is that to be understood? Is this a general exemption for residential buildings?",
+    "answer": "121"
+  },
+  {
+    "question": "The DNSH for water and marine resources of the activity “Construction of new buildings” in Section 7.1. state that ‘WCs, including suites, bowls and flushing cisterns, have a full flush volume of a maximum of 6 litres and a maximum average flush volume of 3,5 litres’. How shall the maximum average flush be calculated? Is the BREEAM methodology applicable?",
+    "answer": "122"
+  },
+  {
+    "question": "For the DNSH criterion to circular economy for the activity “Construction of new buildings” in Section 7.1., is it acceptable that material prepared for energy recovery (incineration) can be counted towards the requirement that 70% of the non-hazardous construction and demolition waste generated on the construction site is prepared for reuse, recycling and other material recovery? Or should incineration/waste be considered outside the 70%?",
+    "answer": "123"
+  },
+  {
+    "question": "What degree of adherence to the ISO 20887 or other standards for assessing the disassembly or adaptability of buildings needs to be demonstrated to ensure compliance with the DNSH to circular economy criterion of the activity “Construction of new buildings” in Section 7.1.? How will compliance with this requirement be evaluated/audited by the responsible authority?",
+    "answer": "124"
+  },
+  {
+    "question": "Which elements should be provided to prove that the new construction is not built on one of the sites referred in the criteria for DNSH to biodiversity for the activity “Construction of new buildings” in Section 7.1. (e.g. arable land or high in biodiversity)?",
+    "answer": "125"
+  },
+  {
+    "question": "How should it be demonstrated that a new construction does not fall under point a) of the criterion for DNSH to biodiversity of the activity “Construction of new buildings” in Section 7.1., if for that piece of land soil fertility is still under research at EU level and below ground biodiversity maps have not yet been published?",
+    "answer": "126"
+  },
+  {
+    "question": "How should the DNSH to biodiversity criterion for the activity “Construction of new buildings” in Section 7.1., which states ‘An Environmental Impact Assessment (EIA) or screening has been completed in accordance with Directive 2011/92/EU’, be understood?",
+    "answer": "127"
+  },
+  {
+    "question": "For the activity “Renovation of existing buildings” in Section 7.2., what is the definition of major renovation in each Member State?",
+    "answer": "128"
+  },
+  {
+    "question": "Footnote 299 in Annex I Section 7.2. on “Renovation of existing buildings” specifies that \"the reduction of the net primary energy demand of energy from renewable sources shall not be taken into account\". How is this to be interpreted?",
+    "answer": "129"
+  },
+  {
+    "question": "How can undertakings meet the DNSH criterion for water of the activity “Renovation of existing buildings” in Section 7.2. as long as there are no corresponding legal restrictions or manufacturer specifications and thus no data exist with which one could track compliance?",
+    "answer": "130"
+  },
+  {
+    "question": "To determine whether or not a 30% reduction in Primary Energy Demand (PED) will be/has been achieved, a starting-PED-value and an end-PED-value needs to be determined. Does the term “validated through an Energy Performance Certificate” as included in the technical screening criteria of the activity “Renovation of existing buildings” in Section 7.2. mean that the end-PED-value is only valid / acceptable if it is a PED value as included in a new EPC? Is the preceding sentence (‘is based on a detailed building survey, an energy audit conducted by an accredited independent expert or any other transparent and proportionate method’) also applicable to the end- PED-value (post-renovation PED value)?",
+    "answer": "131"
+  },
+  {
+    "question": "For the activity “Renovation of existing buildings” in Section 7.2., does the wording ‘is based on a detailed building survey, an energy audit conducted by an accredited independent expert or any other transparent and proportionate method’ mean that to determine the starting Primary Energy Demand (PED) value in addition to an on-site measurement of the PED, alternative methods are acceptable as long as they are ‘transparent and proportionate’? Would it be acceptable to determine (e.g. by using property characteristics and year of construction) upper and lower estimated PED-values for existing energy labels and use the upper PED-values as the starting-PED-value to determine the starting point of a renovation?",
+    "answer": "132"
+  },
+  {
+    "question": "For the activity “Renovation of existing buildings” in Section 7.2., can all renovation measures taken during a three-year period be counted to determine if the 30% reduction (compared to the starting-PED-value as at the beginning of the three-year period) has been realised?",
+    "answer": "133"
+  },
+  {
+    "question": "What are the technical specifications of energy efficient windows, doors, light sources, and highly efficient HWAC technologies referred to in points (b) to (e) of the activity “Installation, maintenance and repair of energy efficiency equipment” in Section 7.3.?",
+    "answer": "134"
+  },
+  {
+    "question": "What is the technical specification of heat pumps contributing to targets for renewable energy in heat and cool in accordance with RED II?",
+    "answer": "135"
+  },
+  {
+    "question": "How to distinguish the installation of heat pumps referred to in Section 4.16. (“Installation and operation of electric heat pumps”) from those in Section 7.6. (“Installation, maintenance and repair of renewable energy technologies”)? What does installation ‘on-site’ mean? Can you provide examples?",
+    "answer": "136"
+  },
+  {
+    "question": "Are bioenergy and hydropower eligible under the activity “Installation, maintenance and repair of renewable energy technologies” in Section 7.6.?",
+    "answer": "137"
+  },
+  {
+    "question": "How do the Sections 4.3 (“Electricity generation from wind power”) and 7.6 (“Installation, maintenance and repair of renewable energy technologies”) interact when it comes to the construction or operation of electricity generation facilities that produce electricity from wind power and the installation, maintenance and repair of wind turbines? Which activities are to be allocated to activity 7.6?",
+    "answer": "138"
+  },
+  {
+    "question": "Do the technical screening criteria of the activity “Acquisition and ownership of buildings” in Section 7.7. relate exclusively to residential buildings or also to non-residential buildings?",
+    "answer": "139"
+  },
+  {
+    "question": "The substantial contribution criteria of the activity “Acquisition and ownership of buildings” in Section 7.7. state that ‘For buildings built after 31 December 2020, the building meets the criteria specified in Section 7.1 of this Annex that are relevant at the time of the acquisition’. Does this refer both to the substantial contribution and DNSH criteria of Section 7.1 (“Construction of new buildings”)?",
+    "answer": "140"
+  },
+  {
+    "question": "For the activity “Acquisition and ownership of buildings” in Section 7.7., what happens if a building has several Energy Performance Certificates (EPCs)?",
+    "answer": "141"
+  },
+  {
+    "question": "For the activity “Acquisition and ownership of buildings” in Section 7.7., to determine when a property was ‘built’, which date should be used: i. the date a property was actually completed and delivered to the owner / occupier; ii. the date of the application for a construction permit; or iii. the date of the confirmation of completion of a construction permit?",
+    "answer": "142"
+  },
+  {
+    "question": "For buildings built after 31 December 2020, can the construction phase of a newly constructed property be considered as being part of the acquisition process? Can the drawn part of a construction mortgage loan therefore be considered under Section 7.7 (“Acquisition and ownership of buildings”), paragraph 2? Put differently: should Section 7.7 paragraph 2 only be used for buildings that have been completed or also for buildings that are being built? Or alternatively, should the consumer be seen as the entity undertaking the economic activity of Section 7.1 (“Construction of new buildings”) and the realised part of a property be considered for EU Taxonomy alignment according to 7.1 only?",
+    "answer": "143"
+  },
+  {
+    "question": "Can companies use Energy Performance Certificate (EPC) equivalents for assessing alignment with the technical screening criteria of the activity “Acquisition and ownership of buildings” in Section 7.7. in countries where EPC is not offered?",
+    "answer": "144"
+  },
+  {
+    "question": "How are buildings assessed in countries where there is no Nearly Zero Energy Buildings (NZEB) threshold, i.e. countries outside the EU? Can companies use equivalents or thresholds from an EU country with a similar climate?",
+    "answer": "145"
+  },
+  {
+    "question": "Can the construction of a building for own use count towards the activity \"Construction of new buildings\" in Section 7.1. or “Acquisition and ownership of buildings” in Section 7.7.?",
+    "answer": "146"
+  },
+  {
+    "question": "Does the Energy Performance Certificate (EPC) class A in the substantial contribution criteria for activities related to the construction and real estate sector refer to primary energy demand or total energy demand?",
+    "answer": "147"
+  },
+  {
+    "question": "What are the rules for defining the top 15% and top 30% benchmarks of the national market (with a distinction between residential and commercial) as referenced in the technical screening criteria of the activity “Acquisition and ownership of buildings” in Section 7.7.? What should be done if there is no Energy Performance Certificate (EPC) nor any data to determine whether a building belongs to the best 15% of the national building stock?",
+    "answer": "148"
+  },
+  {
+    "question": "What should be done if it is currently not possible to quantitatively name the top 15 % of the building stock before 31.12.2020, and there is no corresponding national evaluation of the Energy Performance Certificates (EPCs) already issued, and there is no valid data based on the operating energy demand of the existing building stock? As a first simplification, can calculated energy efficiency data (e.g. from energy performance certificates with standardised energy requirements for household electricity / operating electricity) be used as opposed to real consumption data (from buildings in operation) to determine Taxonomy-alignment with the substantial contribution criteria of the activity “Acquisition and ownership of buildings” in Section 7.7.?",
+    "answer": "149"
+  },
+  {
+    "question": "Is it permissible to use a weighted requirement value based on the valid new building regulations of the last 15 years for the definition of the necessary requirement value for \"the best 15 % of the stock\" as referred to in substantial contribution criteria of the activity “Acquisition and ownership of buildings” in Section 7.7.?",
+    "answer": "150"
+  },
+  {
+    "question": "The top 15% is a dynamic metric. Is grandfathering guaranteed for properties, e.g. over the entire term of a green bond, if they were among the top 15% at the time of issue?",
+    "answer": "151"
+  },
+  {
+    "question": "What is the definition of operational Primary Energy Demand (PED)?",
+    "answer": "152"
+  },
+  {
+    "question": "The non-existing differentiation between residential and non-residential buildings in some Member States leads to the de facto inapplicability of these assessment categories for non-residential buildings, especially in the area of primary energy demand and the calculated CO2 emissions. Due to the higher electricity demand for non-residential buildings, the achievement of an A rating for primary energy demand and CO2 applies to very few buildings (even highly efficient non-residential buildings). What approach should be followed in such a situation?",
+    "answer": "153"
+  },
+  {
+    "question": "How should an energy management programme or system look like (e.g. according to ISO 50001 or EMAS)? Who is responsible – the tenant/user of the building or the landlord? What happens if tenants are changing or when the type of use changes within the property? Will there be concrete requirements regarding the documentation?",
+    "answer": "154"
+  },
+  {
+    "question": "What is the procedure if there is no national implementation of the requirements contained in Article 14(4) and Article 15(4) of Energy Performance of Buildings Directive as amended? Until national requirements are established, can an equivalent listing of the measures actually taken be used to determine alignment with the technical screening criteria of the activity “Acquisition and ownership of buildings” in Section 7.7.?",
+    "answer": "155"
+  },
+  {
+    "question": "Are heritage or protected buildings that are exempt from the Energy Performance Certificates (EPC) under national law, also exempt from demonstrating compliance with the EPC or Primary Energy demand requirements specified in Section 7.7 (“Acquisition and ownership of buildings”)?",
+    "answer": "156"
+  },
+  {
+    "question": "Does Section 7.7 (“Acquisition and ownership of buildings”) differentiate the eligibility of the revenues derived from the ownership of the building (meeting technical screening criteria) depending on the type of economic activity being carried out? For example, in the case of airport buildings and terminals meeting the technical screening criteria under Section 7.7, can the revenues derived from the building ownership be covered regardless of their nature e.g. rents from duty-free shops or rents from ground handlers operations in the terminal?",
+    "answer": "157"
+  },
+  {
+    "question": "Are electronic communications networks (telecommunication) covered under the activities “Data processing, hosting and related activities” in Section 8.1. or “Data-driven solutions for GHG emissions reductions” in Section 8.2 ?",
+    "answer": "158"
+  },
+  {
+    "question": "For the activity “Data processing, hosting and related activities” in Section 8.1., how can compliance with the European Code of Conduct on Data Centre Energy Efficiency be audited?",
+    "answer": "159"
+  },
+  {
+    "question": "For the activity “Data processing, hosting and related activities” in Section 8.1., who carries the burden of proof to demonstrate Taxonomy-alignment in the case of colocation data centres?",
+    "answer": "160"
+  },
+  {
+    "question": "Does the ICT solution referred to in the technical screening criteria of the activity “Data-driven solutions for GHG emissions reduction” in Section 8.2. need to be predominantly aimed at the provision of data and analytics and greenhouse gas (GHG) emission reductions have to be a necessary side effect or does the ICT solution need to be predominantly aimed at reducing GHG emissions using data and analytics?",
+    "answer": "161"
+  },
+  {
+    "question": "How is ‘substantial’ defined in point 2 of the substantial contribution criteria of the activity “Data-driven solutions for GHG emissions reduction” in Section 8.2., which refer to ‘substantial life-cycle GHG emission savings’? How is ‘best performing alternative’ defined?",
+    "answer": "162"
+  },
+  {
+    "question": "Should expenses relating to research and development (R&D) be considered as part of the activity they relate to or as a separate activity under Section 9.1. (“Close to market research, development and innovation”)?",
+    "answer": "163"
+  },
+  {
+    "question": "What is the difference between the technical screening criteria for substantial contribution to climate change adaptation set out in Annex II and the technical screening criteria for DNSH to climate change adaptation set out in Annex I (climate change mitigation)?",
+    "answer": "164"
+  },
+  {
+    "question": "With the submission of the 6th IPCC Assessment Report, the IPCC presented new climate scenarios. Are these to be taken into account instead of the existing scenarios cited in the EU Taxonomy?",
+    "answer": "165"
+  },
+  {
+    "question": "By when should an implementation in regional, high-resolution climate scenarios be aimed for? How will conformity with the requirements of the EU Taxonomy be ensured in this case?",
+    "answer": "166"
+  },
+  {
+    "question": "Is it required to use all 4 IPCC pathways (RCP 2.6, RCP 4.5, RCP 6.0 and RCP 8.5)? Do the outcomes of each analysis have to be assessed separately?",
+    "answer": "167"
+  },
+  {
+    "question": "How should a company proceed if not all of the four main scenarios of the IPCC are available?",
+    "answer": "168"
+  },
+  {
+    "question": "How does proportionality influence the scope of the robust climate risk and vulnerability assessment that has to be conducted as part of the DNSH climate change adaptation criteria?",
+    "answer": "169"
+  },
+  {
+    "question": "What documentation must be provided to meet DNSH requirements related to climate change adaptation?",
+    "answer": "170"
+  },
+  {
+    "question": "Will the use of existing environmental risk inventories (e.g. for floods, avalanches) with consideration of particularly relevant environmental risk scenarios (e.g. for temperature, precipitation, wind) suffice for the time being?",
+    "answer": "171"
+  },
+  {
+    "question": "What are the minimum requirements for a climate risk and vulnerability assessment in terms of scope and level of details (materiality of risks etc.)?",
+    "answer": "172"
+  },
+  {
+    "question": "Which standards need to be used to conduct a climate risk and vulnerability analysis (ISO, EU guidelines on climate resilience for infrastructure projects)? Are undertakings free to choose their own method?",
+    "answer": "173"
+  },
+  {
+    "question": "What is meant by ‘state-of-the-art climate projections’ referred to in the substantial contribution criteria to climate change adaptation?",
+    "answer": "174"
+  },
+  {
+    "question": "How are the criteria in points (d), (e) and (f) of Appendix C to be applied?",
+    "answer": "175"
+  },
+  {
+    "question": "Does the same restriction on building elements and materials, as for activities in Sections 7.1 (“Construction of new buildings”) and 7.2 (“Renovation of existing buildings”) for formaldehyde and other carcinogenic volatile organic compounds of categories 1A and 1B (\" ... with which occupants come into contact ...\") apply to the demonstration of compliance?",
+    "answer": "176"
+  },
+  {
+    "question": "In particular with regard to REACH and CLP compliance, is there a specific, reduced listing of pollutants to be avoided, to be reduced for construction products and building components or are the above-mentioned regulations to be applied in their full length for construction products and building components? If yes, which EU-wide available data / product inventory with regard to product conformity can be used for this purpose?",
+    "answer": "177"
+  },
+  {
+    "question": "Point (g) in Appendix C seems similar to point (f). Is this meant to broaden the scope to other substances not currently under consideration and if so, how should it apply?",
+    "answer": "178"
+  },
+  {
+    "question": "Do the generic do no significant harm criteria in Appendix C cover the manufacturing process? How shall undertakings deal with the list of substances in Appendix C point (g) regarding compliance of an alignment assessment?",
+    "answer": "179"
+  },
+  {
+    "question": "What is the scope of the required analysis for the “use” of the listed substances?",
+    "answer": "180"
+  },
+  {
+    "question": "Environmental impact assessments (EIAs) are not always required by national law. If the EIA is not required by EU law, is waiving the EIA then harmless for the assessment of Taxonomy-alignment?",
+    "answer": "181"
+  },
+  {
+    "question": "What are the minimum requirements of the Environmental Impact Assessment to achieve Taxonomy-alignment?",
+    "answer": "182"
+  },
+  {
+    "question": "What does “for sites/operations located in or near biodiversity-sensitive areas” mean in practice?",
+    "answer": "183"
+  },
+  {
+    "question": "Some DNSH criteria seem to be company strategies or plans, rather than activity specific criteria. Is it enough to comply on company level or does it need to be broken down per activity or product level?",
+    "answer": "184"
+  },
+  {
+    "question": "The Taxonomy criteria referring to the appropriate assessment according with Directive 2009/147/EC and Directive 92/43/EEC for UNESCO World Heritage sites and Key Biodiversity Areas, as well as other protected areas, are complex to implement in absence of the conservation objectives. How can an appropriate assessment be undertaken in the sites and protected areas mentioned in absence of conservation objectives?",
+    "answer": "185"
+  },
+  {
+    "question": "Could the application of Article 6(4) of the Habitats Directive (Directive 92/43/EEC) with regard to the application of compensation measures be clarified? If compensation measures are defined, can a project be considered sustainable according to the criteria of the Climate Delegated Act?",
+    "answer": "186"
+  },
+  {
+    "question": "What is the rationale for the Taxonomy Complementary Climate Delegated Act?",
+    "answer": "187"
+  },
+  {
+    "question": "How ambitious are the technical screening criteria, and do the included activities really lead to environmental benefits, e.g. as compared to energy production from coal?",
+    "answer": "188"
+  },
+  {
+    "question": "What is the rationale for defining nuclear activities as being in line with the EU's climate and environmental objectives?",
+    "answer": "189"
+  },
+  {
+    "question": "What about considerations on nuclear waste?",
+    "answer": "190"
+  },
+  {
+    "question": "What is the rationale for defining certain gas-related activities as “substantially contributing to” the EU climate and environmental objectives?",
+    "answer": "191"
+  },
+  {
+    "question": "Unlike nuclear power, natural gas undoubtedly releases CO2 when it is converted into electricity or heat. How can this form of energy lead to environmental benefits?",
+    "answer": "192"
+  },
+  {
+    "question": "What activities and accompanying criteria does the Complementary Climate Delegated Act introduce?",
+    "answer": "193"
+  },
+  {
+    "question": "What are the amendments introduced to the Delegated Act on disclosures under Article 8 of the Taxonomy Regulation?",
+    "answer": "194"
+  },
+  {
+    "question": "What is the envisioned timeline for the application of Taxonomy-related disclosures set out in the Complementary Delegated Act (CDA)?",
+    "answer": "195"
+  },
+  {
+    "question": "What is the envisioned approach for Taxonomy-related reporting in relation to the environmental objectives?",
+    "answer": "196"
+  },
+  {
+    "question": "What is the impact of the CSRD on the scope of the reporting entities under the Disclosures Delegated Act?",
+    "answer": "197"
+  },
+  {
+    "question": "When and how should the Taxonomy disclosures be verified by external reviewers? How will this change with the application of CSRD?",
+    "answer": "198"
+  },
+  {
+    "question": "Are undertakings established in EEA-countries obliged to report the Taxonomy-alignment of their economic activities?",
+    "answer": "199"
+  },
+  {
+    "question": "How can entities ensure that their voluntary reporting of Taxonomy-alignment of their economic activities does not contradict or misrepresent mandatory disclosures set out in the Disclosures Delegated Act?",
+    "answer": "200"
+  },
+  {
+    "question": "How are reporting undertakings expected to disclose comparative information in the disclosures under the Disclosures Delegated Act?",
+    "answer": "201"
+  },
+  {
+    "question": "How should reporting undertakings address ‘double-counting’ in the context of business activities contributing to multiple environmental objectives?",
+    "answer": "202"
+  },
+  {
+    "question": "Contribution to climate change mitigation (CCM) and climate change adaptation (CCA)",
+    "answer": "203"
+  },
+  {
+    "question": "For activities contributing substantially to CCM, treatment of CapEx(38)Turnover of such an activity would be recognised in the numerator of the turnover KPI only after the activity becomes Taxonomy-aligned. to meet DNSH criteria for non-climate environmental objectives",
+    "answer": "204"
+  },
+  {
+    "question": "Treatment of an activity making substantial contribution to multiple environmental objectives (other than only to CCM and CCA)",
+    "answer": "205"
+  },
+  {
+    "question": "What should be the level of consolidation of KPIs of a parent undertaking with respect to (i) their third country subsidiaries and (ii) their activities/assets in third countries, or those of their EU subsidiaries? Where should KPIs be disclosed?",
+    "answer": "206"
+  },
+  {
+    "question": "What is the level of consolidation of KPIs of non-EU groups with a NFRD subsidiary in the EU?",
+    "answer": "207"
+  },
+  {
+    "question": "Can a subsidiary falling within scope of the NFRD/CSRD be exempted from making Taxonomy related disclosures if its parent undertaking discloses Taxonomy-related information at consolidated level where required or on a voluntary basis?",
+    "answer": "208"
+  },
+  {
+    "question": "Where a reporting undertaking is required to provide consolidated KPIs, should it also provide KPIs of its subsidiaries?",
+    "answer": "209"
+  },
+  {
+    "question": "Is there any minimum turnover, CapEx and OpEx threshold below which undertakings are not obliged to report Taxonomy-eligibility or alignment of their economic activities (‘materiality thresholds’)?",
+    "answer": "210"
+  },
+  {
+    "question": "How should turnover, CapEx, OpEx of joint ventures be treated for the reporting of Taxonomy-related KPIs?",
+    "answer": "211"
+  },
+  {
+    "question": "How should reporting undertakings account for hedging instruments (including forward sales of power)?",
+    "answer": "212"
+  },
+  {
+    "question": "How should the KPIs be adjusted by non-financial undertakings to take account of the environmentally sustainable bonds that they issued with the view of avoiding ‘double-counting’? How should environmentally sustainable bonds / debt securities and the linked double counting issues be treated?",
+    "answer": "213"
+  },
+  {
+    "question": "How should a reporting undertaking treat the turnover and CapEx from disposal groups and discontinued operations and in the context of IFRS 5?",
+    "answer": "214"
+  },
+  {
+    "question": "How should reporting undertakings assess the Taxonomy-eligibility of economic activities for climate change adaptation (CCA) under Article 11(1)(a) of the Taxonomy Regulation?",
+    "answer": "215"
+  },
+  {
+    "question": "What is the Taxonomy-aligned share of turnover and corresponding CapEx/OpEx from activities listed in Annex II to the Climate Delegated Act?",
+    "answer": "216"
+  },
+  {
+    "question": "When should an undertaking be required to report under the Disclosures Delegated Act an economic activity that has not been performed by the reporting entity itself but by a subcontractor?",
+    "answer": "217"
+  },
+  {
+    "question": "How should reporting undertakings disclose turnover from Taxonomy-aligned economic activities whose output is used or consumed internally?",
+    "answer": "218"
+  },
+  {
+    "question": "How should reporting undertakings allocate the turnover to economic activities which provide multiple services or products to customers?",
+    "answer": "219"
+  },
+  {
+    "question": "How should reporting undertakings treat public funding and subsidies received to finance their CapEx?",
+    "answer": "220"
+  },
+  {
+    "question": "At what point in time does the five to ten year-period of the CapEx plan commence for non-financial undertakings for the purposes of reporting? Does this time period apply both to a plan to expand a Taxonomy-aligned economic activity as well as to upgrade a Taxonomy-eligible economic activity into a Taxonomy-aligned economic activity?",
+    "answer": "221"
+  },
+  {
+    "question": "What is the beginning of the 18 month-period for the completion of individual measures referred to in point (c) of Section 1.1.2.2 of Annex I?",
+    "answer": "222"
+  },
+  {
+    "question": "How comprehensive and precise should a CapEx plan be to be counted in the numerator of the CapEx KPI? Would the expansion of an existing Taxonomy-aligned economic activity in the same facility count as CapEx under point (a) or (b) of Section 1.1.2.2. of Annex I?",
+    "answer": "223"
+  },
+  {
+    "question": "How should the Taxonomy-aligned value of CapEx be presented on points (a), (b) and (c) of Section 1.1.2.2 of Annex I?",
+    "answer": "224"
+  },
+  {
+    "question": "What is the scope of the CapEx and OpEx referred to in points (c) of Section 1.1.2.2 and Section 1.1.3.2 of Annex I, i.e. purchase of Taxonomy-aligned output and individual measures?",
+    "answer": "225"
+  },
+  {
+    "question": "How should CapEx and OpEx integrated in value chains be disclosed in the situation where the reporting undertaking is performing both the upstream and the downstream Taxonomy-eligible economic activity?",
+    "answer": "226"
+  },
+  {
+    "question": "How should CapEx be assessed with regard to Taxonomy-alignment if the asset that the CapEx is financing might be used for various projects?",
+    "answer": "227"
+  },
+  {
+    "question": "Can prepayments be counted as part of Taxonomy-aligned CapEx?",
+    "answer": "228"
+  },
+  {
+    "question": "How should research and development be accounted in the numerator of the OpEX KPI where it cannot be linked to specific activities?",
+    "answer": "229"
+  },
+  {
+    "question": "How should OpEx categories referred to in points (a) to (c) in Section 1.1.3.2. of Annex I (OpEx Numerator) be understood and treated in the numerator and denominator of the OpEx KPI?",
+    "answer": "230"
+  },
+  {
+    "question": "To which elements of the definition of the denominator of OpEx KPI does the notion of “maintenance and repair, and any other direct expenditures relating to the day-to-day servicing of assets of property, plant and equipment” refer under Section 1.1.3.1 of Annex I?",
+    "answer": "231"
+  },
+  {
+    "question": "To what undertakings does the reporting obligation under the Taxonomy Regulation Article 8 Delegated Act apply?",
+    "answer": "232"
+  },
+  {
+    "question": "How is an 'economic activity' defined in the Disclosures Delegated Act?",
+    "answer": "233"
+  },
+  {
+    "question": "What is a Taxonomy-eligible economic activity?",
+    "answer": "234"
+  },
+  {
+    "question": "What are 'enabling' and ´transitional´ economic activities in the context of Taxonomy eligibility reporting?",
+    "answer": "235"
+  },
+  {
+    "question": "How to identify and report eligibility for adaptation-related economic activities?",
+    "answer": "236"
+  },
+  {
+    "question": "How should NACE codes be used to identify Taxonomy-eligible activities in the context of eligibility-reporting?",
+    "answer": "237"
+  },
+  {
+    "question": "Can undertakings report voluntary information in the context of Taxonomy eligibility reporting?",
+    "answer": "238"
+  },
+  {
+    "question": "How far should undertakings assess and report Taxonomy eligible activities in their value chain, both upstream and downstream?",
+    "answer": "239"
+  },
+  {
+    "question": "How to identify Taxonomy-eligible activities of which activity descriptions contain qualifiers, such as ‘low carbon’, and ‘climate-related perils’?",
+    "answer": "240"
+  },
+  {
+    "question": "Should undertakings report a breakdown of Taxonomy eligibility per environmental objective?",
+    "answer": "241"
+  },
+  {
+    "question": "How are turnover, CapEx and OpEx defined in the context of Taxonomy eligibility reporting?",
+    "answer": "242"
+  },
+  {
+    "question": "What is the scope of ‘other direct expenditures’ set out in Annex I to the Disclosures Delegated Act?",
+    "answer": "243"
+  },
+  {
+    "question": "How should undertakings account for negative revenues in the context of Taxonomy-eligibility reporting?",
+    "answer": "244"
+  },
+  {
+    "question": "Should undertakings avoid double reporting of Taxonomy eligible activities?",
+    "answer": "245"
+  },
+  {
+    "question": "Should an entity report Taxonomy-eligible turnover when the economic activity has not been performed by itself, but by a subcontractor?",
+    "answer": "246"
+  },
+  {
+    "question": "How should a non-financial undertaking report on products and services that are both consumed internally and sold externally?",
+    "answer": "247"
+  },
+  {
+    "question": "How should non-financial undertakings treat intangibles under Taxonomy eligibility reporting?",
+    "answer": "248"
+  },
+  {
+    "question": "Should non-financial undertakings report the Taxonomy eligibility of their non-EU activities?",
+    "answer": "249"
+  },
+  {
+    "question": "How should non-financial undertakings treat the turnover of eligible activities that are deconsolidated during the financial year?",
+    "answer": "250"
+  },
+  {
+    "question": "What should financial undertakings report if underlying entities’ information is not publicly available?",
+    "answer": "251"
+  },
+  {
+    "question": "What is the difference between covered assets and total assets in the context of Taxonomy eligibility reporting?",
+    "answer": "252"
+  },
+  {
+    "question": "Should cash and cash equivalent assets be considered in the context of Taxonomy eligibility reporting?",
+    "answer": "253"
+  },
+  {
+    "question": "How may asset managers weight their holdings in a portfolio to report Taxonomy-eligible assets?",
+    "answer": "254"
+  },
+  {
+    "question": "Do mortgages qualify as eligible for an asset manager (as an investment) or only for the bank that provided the loan originally?",
+    "answer": "255"
+  },
+  {
+    "question": "What activities should an insurer and a reinsurer consider when reporting their underwriting activities in the context of Taxonomy eligibility reporting?",
+    "answer": "256"
+  },
+  {
+    "question": "Do the reporting obligations under the Disclosures Delegated Act apply to a large entity that is not a credit institution under Article 4 of the Capital Requirements Regulation but is treated as a financial undertaking under Articles 19a and 29a of the NFRD?",
+    "answer": "257"
+  },
+  {
+    "question": "How can CapEx be associated with general purpose lending in the context of Taxonomy eligibility reporting?",
+    "answer": "258"
+  },
+  {
+    "question": "How should a credit institution with a Markets in Financial Instruments Directive (MifiD) investment firm license report its Taxonomy-eligible economic activities?",
+    "answer": "259"
+  },
+  {
+    "question": "How to assess and report the Taxonomy eligibility of a debt asset such as a bond or a loan?",
+    "answer": "260"
+  },
+  {
+    "question": "Does the use of all proceeds from debt products need to be independently verified if reported as Taxonomy-eligible?",
+    "answer": "261"
+  },
+  {
+    "question": "Can green debt instruments from non-EU entities be reported as Taxonomy eligible?",
+    "answer": "262"
+  },
+  {
+    "question": "Can green sovereign debt be reported as Taxonomy eligible?",
+    "answer": "263"
+  },
+  {
+    "question": "How does the Disclosures Delegated Act interact with the proposed requirements on corporate sustainability reporting?",
+    "answer": "264"
+  },
+  {
+    "question": "What is the Disclosures Delegated Act of the Taxonomy Regulation Article 8?",
+    "answer": "265"
+  },
+  {
+    "question": "What should financial and non-financial undertakings report and by when?",
+    "answer": "266"
+  },
+  {
+    "question": "To what extent can accounting principles be applied in order to complement descriptions of economic activities from the Climate Delegated Act?",
+    "answer": "267"
+  },
+  {
+    "question": "How should mixed groups composed of financial and non-financial undertakings, or with diversified and multiple lines of activities report?",
+    "answer": "268"
+  },
+  {
+    "question": "Should financial and non-financial undertakings use the Annexes provided in the Disclosure Delegated Act to report their eligibility disclosures?",
+    "answer": "269"
+  },
+  {
+    "question": "What should undertakings with no Taxonomy-eligible economic activities report?",
+    "answer": "270"
+  },
+  {
+    "question": "Should Taxonomy-eligibility reporting as part of the Disclosures Delegated Act be externally assured?",
+    "answer": "271"
+  },
+  {
+    "question": "Should non-financial undertakings provide the three ratios in the context of Taxonomy-eligibility reporting (Turnover, CapEx, OpEx)?",
+    "answer": "272"
+  },
+  {
+    "question": "How does the Disclosures Delegated Act define capital and operating expenditures?",
+    "answer": "273"
+  },
+  {
+    "question": "Should Taxonomy-eligible economic activities be reported in monetary amounts?",
+    "answer": "274"
+  },
+  {
+    "question": "Should financial undertakings report Taxonomy-eligibility based on their underlying entities´ Turnover/CapEx?",
+    "answer": "275"
+  },
+  {
+    "question": "Can financial undertakings use estimates for Taxonomy-eligibility, when information is not available from the reporting firm in 2022?",
+    "answer": "276"
+  },
+  {
+    "question": "Should financial undertakings 'look through' their investments and portfolios to report Taxonomy-eligibility?",
+    "answer": "277"
+  },
+  {
+    "question": "What assets are in scope of Taxonomy-eligibility reporting for financial undertakings?",
+    "answer": "278"
+  },
+  {
+    "question": "Are derivative instruments in scope of Taxonomy-eligibility reporting?",
+    "answer": "279"
+  },
+  {
+    "question": "What activities should an insurer and a reinsurer consider when reporting their underwriting activities in the context of Taxonomy-eligibility reporting?",
+    "answer": "280"
+  },
+  {
+    "question": "Should insurers and reinsurers consolidate their eligibility disclosures at group-level?",
+    "answer": "281"
+  },
+  {
+    "question": "How should reinsurers report reinsurance risk/exposure in the absence of insurance policy-level data in 2022?",
+    "answer": "282"
+  },
+  {
+    "question": "Does life insurance qualify as a Taxonomy-eligible activity?",
+    "answer": "283"
+  },
+  {
+    "question": "Are the definitions used in the Disclosures Delegated Act reconcilable with those used for FINREP reporting (Commission Implementing Regulation (EU) 2021/451)?",
+    "answer": "284"
+  },
+  {
+    "question": "Can green SME debt that is taxonomy-aligned be reported as eligible?",
+    "answer": "285"
+  },
+  {
+    "question": "How does the Taxonomy Regulation Article 8 Delegated Act interact with the Regulatory Technical Standard (RTS) developed under the Sustainable Finance Disclosures Regulation (SFDR)?",
+    "answer": "286"
+  },
+  {
+    "question": "What is the rationale for the Taxonomy Complementary Climate Delegated Act?",
+    "answer": "287"
+  },
+  {
+    "question": "How ambitious are the technical screening criteria, and do the included activities really lead to environmental benefits, e.g. as compared to energy production from coal?",
+    "answer": "288"
+  },
+  {
+    "question": "What is the rationale for defining nuclear activities as being in line with the EU's climate and environmental objectives?",
+    "answer": "289"
+  },
+  {
+    "question": "What about considerations on nuclear waste?",
+    "answer": "290"
+  },
+  {
+    "question": "What is the rationale for defining certain gas-related activities as “substantially contributing to” the EU climate and environmental objectives?",
+    "answer": "291"
+  },
+  {
+    "question": "Unlike nuclear power, natural gas undoubtedly releases CO2 when it is converted into electricity or heat. How can this form of energy lead to environmental benefits?",
+    "answer": "292"
+  },
+  {
+    "question": "What activities and accompanying criteria does the Complementary Climate Delegated Act introduce?",
+    "answer": "293"
+  },
+  {
+    "question": "What are the amendments introduced to the Delegated Act on disclosures under Article 8 of the Taxonomy Regulation?",
+    "answer": "294"
+  },
+  {
+    "question": "What are the main benefits for financial and non-financial companies associated with this disclosures delegated act?",
+    "answer": "295"
+  },
+  {
+    "question": "How does this disclosures delegated act interact with the climate delegated act adopted on 4 June and the future environmental delegated act specifying the technical screening criteria for the remaining environmental objectives?",
+    "answer": "296"
+  },
+  {
+    "question": "How does this delegated act interact with the Non-Financial Reporting Directive (NFRD) and related proposal for a Corporate Sustainability Reporting Directive (CSRD)?",
+    "answer": "297"
+  },
+  {
+    "question": "How will this disclosures delegated act interact with the SFDR and the forthcomings Ecolabel and EU Green Bond Standard?",
+    "answer": "298"
+  },
+  {
+    "question": "What should non-financial companies report under this disclosures delegated act?",
+    "answer": "299"
+  },
+  {
+    "question": "What should financial companies report under this disclosures delegated act?",
+    "answer": "300"
+  },
+  {
+    "question": "How does this disclosures delegated act treat exposures to companies that are not subject to the reporting under this delegated act (SMEs, non-EU companies) in the reporting of financial companies?",
+    "answer": "301"
+  },
+  {
+    "question": "How does this disclosures delegated act treat exposures to government entities in the reporting of financial companies?",
+    "answer": "302"
+  },
+  {
+    "question": "Does this disclosures delegated act include derivatives in scope of the reporting of financial companies?",
+    "answer": "303"
+  },
+  {
+    "question": "What is the timeframe for adoption and implementation of this disclosures delegate act, and will there be a phased entry into force?",
+    "answer": "304"
+  },
+  {
+    "question": "Once adopted, will this disclosures delegated act be reviewed?",
+    "answer": "305"
+  },
+  {
+    "question": "What is the EU Taxonomy?",
+    "answer": "306"
+  },
+  {
+    "question": "What is the Taxonomy Climate Delegated Act?",
+    "answer": "307"
+  },
+  {
+    "question": "Why do we need an EU Taxonomy?",
+    "answer": "308"
+  },
+  {
+    "question": "How does the EU Taxonomy fit within the broader sustainable finance framework?",
+    "answer": "309"
+  },
+  {
+    "question": "How does the EU Taxonomy define green economic activities?",
+    "answer": "310"
+  },
+  {
+    "question": "What is the level of ambition of the EU Taxonomy ‘substantial contribution’ criteria? Why is it something higher than EU sectoral legislation?",
+    "answer": "311"
+  },
+  {
+    "question": "What is the coverage of the EU Taxonomy and why are some sectors or activities not covered?",
+    "answer": "312"
+  },
+  {
+    "question": "How will companies use the EU Taxonomy?",
+    "answer": "313"
+  },
+  {
+    "question": "Mandatory use: disclosure",
+    "answer": "314"
+  },
+  {
+    "question": "Voluntary use: guide for investments",
+    "answer": "315"
+  },
+  {
+    "question": "Will the EU Taxonomy be used elsewhere too?",
+    "answer": "316"
+  },
+  {
+    "question": "How can companies benefit from having Taxonomy-aligned activities?",
+    "answer": "317"
+  },
+  {
+    "question": "How does the EU Taxonomy help companies transition towards sustainability?",
+    "answer": "318"
+  },
+  {
+    "question": "My company is an SME. Can my company also benefit from the EU Taxonomy?",
+    "answer": "319"
+  },
+  {
+    "question": "My company’s activity is not covered in the EU Taxonomy. What does that mean for my company?",
+    "answer": "320"
+  },
+  {
+    "question": "My company’s activity is not Taxonomy-aligned. Can this activity’s environmental performance still be recognised somehow?",
+    "answer": "321"
+  },
+  {
+    "question": "My company is taking steps to reduce the harmful impact on the environment of its activities. Will this improvement be recognised?",
+    "answer": "322"
+  },
+  {
+    "question": "What was the process leading up to the adoption of the Taxonomy Climate Delegated Act and as of when will it apply?",
+    "answer": "323"
+  },
+  {
+    "question": "What is the role of the Platform on Sustainable Finance in developing the technical screening criteria?",
+    "answer": "324"
+  },
+  {
+    "question": "What role do the minimum safeguards play in the EU Taxonomy Regulation?",
+    "answer": "325"
+  },
+  {
+    "question": "How are the minimum safeguards defined under the Article 18 of the EU Taxonomy?",
+    "answer": "326"
+  },
+  {
+    "question": "What are the key expectations for undertakings under Article 18 of the Taxonomy Regulation?",
+    "answer": "327"
+  },
+  {
+    "question": "Do Taxonomy-aligned investments qualify as ‘sustainable investment’ under the SFDR?",
+    "answer": "328"
+  }
+]
