@@ -44,7 +44,7 @@ elif model_choice in ["gpt4o_gen", "gpt4o_choose"]:
             answer = make_query(query, prompt_name, top3_ind, api_key)
             print('\033[1;35mANSWER: \033[0m')
             print(answer)
-if model_choice == 't5_gen':
+elif model_choice == 't5_gen':
     from top3 import make_query as get_top3
     from t5_faq import make_query
 
